@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Homework/PAD-7/utils.py
+Homework/PAD-6/Streamlit/customers.csv
+Homework/PAD-6/Streamlit/customers_large.csv
+Homework/PAD-7/PAD_07_Testowanie Hipotez Statystycznych (1).ipynb
+Homework/PAD-7/PAD_08_Modelowanie Statystyczne (1).ipynb
